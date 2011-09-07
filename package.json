@@ -1,0 +1,14 @@
+{
+  "author": "Francis Gulotta <wizard@roborooter.com>",
+  "name": "punycode",
+  "description": "Javascript Punycode converter derived from example in RFC3492.",
+  "version": "0.0.1",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~v0.4.7"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

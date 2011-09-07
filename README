@@ -1,0 +1,3 @@
+Javascript Punycode converter derived from example in RFC3492
+Code attributed to "Some" at stackoverflow http://stackoverflow.com/questions/183485/can-anyone-recommend-a-good-free-javascript-for-punycode-to-unicode-conversion
+I just packaged it up into a module as I had need for it.
