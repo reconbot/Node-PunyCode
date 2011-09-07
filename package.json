@@ -4,11 +4,13 @@
   "description": "Javascript Punycode converter derived from example in RFC3492.",
   "version": "0.0.1",
   "repository": {
-    "url": ""
+    "type": "git",
+    "url": "git://github.com/reconbot/Node-PunyCode.git"
   },
   "engines": {
     "node": "~v0.4.7"
   },
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "homepage": "https://github.com/reconbot/Node-PunyCode"
 }
