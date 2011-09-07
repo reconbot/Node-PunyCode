@@ -7,9 +7,7 @@
     "type": "git",
     "url": "git://github.com/reconbot/Node-PunyCode.git"
   },
-  "engines": {
-    "node": "~v0.4.7"
-  },
+  "engines": {"npm":"1.0.6","node":"v0.4.7"},
   "dependencies": {},
   "devDependencies": {},
   "homepage": "https://github.com/reconbot/Node-PunyCode"
