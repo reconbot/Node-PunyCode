@@ -2,12 +2,12 @@
   "author": "Francis Gulotta <wizard@roborooter.com>",
   "name": "punycode",
   "description": "Javascript Punycode converter derived from example in RFC3492.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/reconbot/Node-PunyCode.git"
   },
-  "engines": {"npm":"1.0.6","node":"v0.4.7"},
+  "engines": {"npm":"1.0.x","node":"0.4.x"},
   "dependencies": {},
   "devDependencies": {},
   "homepage": "https://github.com/reconbot/Node-PunyCode"
