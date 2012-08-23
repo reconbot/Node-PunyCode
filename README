@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/reconbot/Node-PunyCode.png)](http://travis-ci.org/reconbot/Node-PunyCode)
 This project has been depreciated for https://github.com/bestiejs/punycode.js
 
 Javascript Punycode converter derived from example in RFC3492
